@@ -1,41 +1,41 @@
-# Archivos de caché de Python
+# Python cache files
 __pycache__/
 *.py[cod]
 *$py.class
 
-# Archivos de entorno virtual
+# Virtual environment files
 .env
 .venv/
 env/
 venv/
 ENV/
 
-# Archivos de configuración de IDEs
+# IDE configuration files
 .vscode/
 .idea/
 
-# Archivos de pytest
+# Pytest files
 .pytest_cache/
 .coverage
 htmlcov/
 
-# Archivos de logs
+# Log files
 *.log
 
-# Archivos compilados
+# Compiled files
 *.so
 
-# Archivos de paquetes
+# Package files
 *.egg
 *.egg-info/
 dist/
 build/
 .eggs/
 
-# Archivos de test coverage
+# Test coverage files
 .tox/
 .nox/
 
-# Archivos temporales de sistema
+# System temporary files
 .DS_Store
 Thumbs.db
