@@ -18,18 +18,3 @@ class euler_problem_1:
 
         return sum
     
-
-obj = euler_problem_1()
-
-test_1 = obj.get_sum(10)
-test_2 = obj.get_sum(1000)
-test_3 = obj.get_sum(100000)
-test_4 = obj.get_sum(22065)
-test_5 = obj.get_sum(92065)
-
-print(test_1)
-print(test_2)
-print(test_3)
-print(test_4)
-print(test_5)
-
